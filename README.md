@@ -1,2 +1,2 @@
-# umi-he
-umi h5
+# umi-demo
+umi project
